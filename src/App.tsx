@@ -15,7 +15,7 @@ interface CardType {
 const cards: CardType[] = [
   {
     id: 1,
-    image: './assets/images/1.png',
+    image: '/images/1.png',
     força: 10000,
     ataque: 7000,
     defesa: 2000,
@@ -23,7 +23,7 @@ const cards: CardType[] = [
   },
   {
     id: 2,
-    image: './assets/images/2.jpg',
+    image: '/images/2.jpg',
     força: 15000,
     ataque: 3000,
     defesa: 3000,
@@ -31,7 +31,7 @@ const cards: CardType[] = [
   },
   {
     id: 3,
-    image: './assets/images/3.png',
+    image: '/images/3.png',
     força: 30000,
     ataque: 2000,
     defesa: 1000,
@@ -39,7 +39,7 @@ const cards: CardType[] = [
   },
   {
     id: 4,
-    image: './assets/images/4.png',
+    image: '/images/4.png',
     força: 25000,
     ataque: 5000,
     defesa: 7000,
@@ -47,7 +47,7 @@ const cards: CardType[] = [
   },
   {
     id: 5,
-    image: './assets/images/5.png',
+    image: '/images/5.png',
     força: 30000,
     ataque: 1000,
     defesa: 9000,
@@ -55,7 +55,7 @@ const cards: CardType[] = [
   },
   {
     id: 6,
-    image: './assets/images/6.png',
+    image: '/images/6.png',
     força: 35000,
     ataque: 9000,
     defesa: 8000,
@@ -63,7 +63,7 @@ const cards: CardType[] = [
   },
   {
     id: 7,
-    image: './assets/images/7.png',
+    image: '/images/7.png',
     força: 20000,
     ataque: 8000,
     defesa: 10000,
@@ -71,7 +71,7 @@ const cards: CardType[] = [
   },
   {
     id: 8,
-    image: './assets/images/8.png',
+    image: '/images/8.png',
     força: 45000,
     ataque: 7000,
     defesa: 10000,
@@ -79,7 +79,7 @@ const cards: CardType[] = [
   },
   {
     id: 9,
-    image: './assets/images/9.png',
+    image: '/images/9.png',
     força: 50000,
     ataque: 3000,
     defesa: 3000,
@@ -87,7 +87,7 @@ const cards: CardType[] = [
   },
   {
     id: 10,
-    image: './assets/images/10.png',
+    image: '/images/10.png',
     força: 10000,
     ataque: 3000,
     defesa: 2000,
@@ -95,7 +95,7 @@ const cards: CardType[] = [
   },
   {
     id: 11,
-    image: './assets/images/11.png',
+    image: '/images/11.png',
     força: 15000,
     ataque: 9000,
     defesa: 4000,
@@ -103,7 +103,7 @@ const cards: CardType[] = [
   },
   {
     id: 12,
-    image: './assets/images/12.png',
+    image: '/images/12.png',
     força: 20000,
     ataque: 7000,
     defesa: 5000,
@@ -111,7 +111,7 @@ const cards: CardType[] = [
   },
   {
     id: 13,
-    image: './assets/images/13.png',
+    image: '/images/13.png',
     força: 25000,
     ataque: 5000,
     defesa: 7000,
@@ -119,7 +119,7 @@ const cards: CardType[] = [
   },
   {
     id: 14,
-    image: './assets/images/14.png',
+    image: '/images/14.png',
     força: 30000,
     ataque: 3000,
     defesa: 9000,
@@ -127,7 +127,7 @@ const cards: CardType[] = [
   },
   {
     id: 15,
-    image: './assets/images/15.png',
+    image: '/images/15.png',
     força: 35000,
     ataque: 1000,
     defesa: 5000,
@@ -135,7 +135,7 @@ const cards: CardType[] = [
   },
   {
     id: 24,
-    image: './assets/images/24.png',
+    image: '/images/24.png',
     força: 45000,
     ataque: 5000,
     defesa: 9000,
@@ -143,7 +143,7 @@ const cards: CardType[] = [
   },
   {
     id: 25,
-    image: './assets/images/24.png',
+    image: '/images/24.png',
     força: 20000,
     ataque: 9000,
     defesa: 8000,
@@ -151,7 +151,7 @@ const cards: CardType[] = [
   },
   {
     id: 41,
-    image: './assets/images/41.png',
+    image: '/images/41.png',
     força: 10000,
     ataque: 8000,
     defesa: 4000,
@@ -159,7 +159,7 @@ const cards: CardType[] = [
   },
   {
     id: 42,
-    image: './assets/images/42.png',
+    image: '/images/42.png',
     força: 15000,
     ataque: 4000,
     defesa: 3000,
@@ -167,7 +167,7 @@ const cards: CardType[] = [
   },
   {
     id: 52,
-    image: './assets/images/52.png',
+    image: '/images/52.png',
     força: 50000,
     ataque: 8000,
     defesa: 6000,
@@ -175,7 +175,7 @@ const cards: CardType[] = [
   },
   {
     id: 53,
-    image: './assets/images/53.png',
+    image: '/images/53.png',
     força: 20000,
     ataque: 9000,
     defesa: 6000,
@@ -183,7 +183,7 @@ const cards: CardType[] = [
   },
   {
     id: 54,
-    image: './assets/images/54.png',
+    image: '/images/54.png',
     força: 30000,
     ataque: 1000,
     defesa: 5000,
@@ -191,7 +191,7 @@ const cards: CardType[] = [
   },
   {
     id: 55,
-    image: './assets/images/55.png',
+    image: '/images/55.png',
     força: 35000,
     ataque: 9000,
     defesa: 4000,
@@ -199,7 +199,7 @@ const cards: CardType[] = [
   },
   {
     id: 60,
-    image: './assets/images/60.png',
+    image: '/images/60.png',
     força: 40000,
     ataque: 1000,
     defesa: 7000,
@@ -207,7 +207,7 @@ const cards: CardType[] = [
   },
   {
     id: 61,
-    image: './assets/images/61.png',
+    image: '/images/61.png',
     força: 45000,
     ataque: 8000,
     defesa: 6000,
@@ -215,7 +215,7 @@ const cards: CardType[] = [
   },
   {
     id: 62,
-    image: './assets/images/62.png',
+    image: '/images/62.png',
     força: 25000,
     ataque: 5000,
     defesa: 9000,
@@ -223,7 +223,7 @@ const cards: CardType[] = [
   },
   {
     id: 63,
-    image: './assets/images/63.png',
+    image: '/images/63.png',
     força: 10000,
     ataque: 4000,
     defesa: 4000,
@@ -231,7 +231,7 @@ const cards: CardType[] = [
   },
   {
     id: 64,
-    image: './assets/images/64.png',
+    image: '/images/64.png',
     força: 15000,
     ataque: 10000,
     defesa: 6000,
@@ -239,7 +239,7 @@ const cards: CardType[] = [
   },
   {
     id: 65,
-    image: './assets/images/65.png',
+    image: '/images/65.png',
     força: 20000,
     ataque: 8000,
     defesa: 8000,
@@ -247,7 +247,7 @@ const cards: CardType[] = [
   },
   {
     id: 74,
-    image: './assets/images/74.png',
+    image: '/images/74.png',
     força: 25000,
     ataque: 5000,
     defesa: 10000,
@@ -255,7 +255,7 @@ const cards: CardType[] = [
   },
   {
     id: 76,
-    image: './assets/images/6.png',
+    image: '/images/6.png',
     força: 45000,
     ataque: 7000,
     defesa: 6000,
@@ -263,7 +263,7 @@ const cards: CardType[] = [
   },
   {
     id: 77,
-    image: './assets/images/77.png',
+    image: '/images/77.png',
     força: 40000,
     ataque: 4000,
     defesa: 9000,
@@ -271,7 +271,7 @@ const cards: CardType[] = [
   },
   {
     id: 78,
-    image: './assets/images/6.png',
+    image: '/images/6.png',
     força: 45000,
     ataque: 6000,
     defesa: 5000,
@@ -279,7 +279,7 @@ const cards: CardType[] = [
   },
   {
     id: 92,
-    image: './assets/images/92.png',
+    image: '/images/92.png',
     força: 40000,
     ataque: 6000,
     defesa: 2000,
@@ -287,7 +287,7 @@ const cards: CardType[] = [
   },
   {
     id:93,
-    image: './assets/images/93.png',
+    image: '/images/93.png',
     força: 45000,
     ataque: 10000,
     defesa: 4000,
@@ -295,7 +295,7 @@ const cards: CardType[] = [
   },
   {
     id: 94,
-    image: './assets/images/94.png',
+    image: '/images/94.png',
     força: 50000,
     ataque: 2000,
     defesa: 1000,
@@ -303,7 +303,7 @@ const cards: CardType[] = [
   },
   {
     id: 116,
-    image: './assets/images/116.png',
+    image: '/images/116.png',
     força: 15000,
     ataque: 4000,
     defesa: 7000,
@@ -311,7 +311,7 @@ const cards: CardType[] = [
   },
   {
     id: 117,
-    image: './assets/images/117.png',
+    image: '/images/117.png',
     força: 20000,
     ataque: 10000,
     defesa: 10000,
@@ -319,7 +319,7 @@ const cards: CardType[] = [
   },
   {
     id: 118,
-    image: './assets/images/118.png',
+    image: '/images/118.png',
     força: 25000,
     ataque: 6000,
     defesa: 8000,
@@ -327,7 +327,7 @@ const cards: CardType[] = [
   },
   {
     id: 119,
-    image: './assets/images/119.png',
+    image: '/images/119.png',
     força: 15000,
     ataque: 6000,
     defesa: 2000,
@@ -335,7 +335,7 @@ const cards: CardType[] = [
   },
   {
     id: 120,
-    image: './assets/images/120.png',
+    image: '/images/120.png',
     força: 35000,
     ataque: 10000,
     defesa: 10000,
@@ -343,7 +343,7 @@ const cards: CardType[] = [
   },
   {
     id: 121,
-    image: './assets/images/121.png',
+    image: '/images/121.png',
     força: 40000,
     ataque: 2000,
     defesa: 3000,
@@ -351,7 +351,7 @@ const cards: CardType[] = [
   },
   {
     id: 133,
-    image: './assets/images/133.png',
+    image: '/images/133.png',
     força: 35000,
     ataque: 2000,
     defesa: 1000,
@@ -359,7 +359,7 @@ const cards: CardType[] = [
   },
   {
     id: 134,
-    image: './assets/images/134.png',
+    image: '/images/134.png',
     força: 30000,
     ataque: 2000,
     defesa: 1000,
@@ -367,7 +367,7 @@ const cards: CardType[] = [
   },
   {
     id: 135,
-    image: './assets/images/135.png',
+    image: '/images/135.png',
     força: 40000,
     ataque: 6000,
     defesa: 5000,
@@ -375,7 +375,7 @@ const cards: CardType[] = [
   },
   {
     id: 136,
-    image: './assets/images/136.png',
+    image: '/images/136.png',
     força: 45000,
     ataque: 10000,
     defesa: 8000,
@@ -383,7 +383,7 @@ const cards: CardType[] = [
   },
   {
     id: 143,
-    image: './assets/images/143.png',
+    image: '/images/143.png',
     força: 40000,
     ataque: 1000,
     defesa: 1000,
@@ -391,7 +391,7 @@ const cards: CardType[] = [
   },
   {
     id: 150,
-    image: './assets/images/150.png',
+    image: '/images/150.png',
     força: 50000,
     ataque: 7000,
     defesa: 2000,
